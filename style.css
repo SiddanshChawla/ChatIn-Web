@@ -168,6 +168,9 @@ body{
     .top_page{
         height: 80vh;
         vertical-align: middle;
+        padding-top: 15%;
+        padding-bottom: -5%;
+        line-height: 2;
     }
     .footer-page{
         height: 5vh;
