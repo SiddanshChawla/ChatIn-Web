@@ -165,4 +165,12 @@ body{
         font-weight: bold;
     }
 
+    .top_page{
+        height: 80vh;
+        vertical-align: middle;
+    }
+    .footer-page{
+        height: 10vh;
+    }
+
 }
