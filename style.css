@@ -100,3 +100,28 @@ body{
     text-align: center;
     font-size: 14px;
 }
+
+
+@media (max-width:500px){
+    .icon{
+        width: 13rem;
+    }
+
+    .tagline{
+        font-size: 22px;
+    }
+
+    body{
+        font-size: 15px;
+    }
+    .feature-head{
+        font-size: 17px;
+    }
+
+    .about-head{
+        font-size: 17px;
+    }
+    .button_table{
+        width:75%;
+    }
+}
