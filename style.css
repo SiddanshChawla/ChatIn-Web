@@ -162,7 +162,11 @@ body{
     }
 
     .mob_ver_down{
-        font-weight: 550;
+        font-weight: 450;
+    }
+
+    .mob_ver_but{
+        font-weight: 400;
     }
 
     .top_page{
