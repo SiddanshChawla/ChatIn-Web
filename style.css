@@ -125,4 +125,40 @@ body{
         width:75%;
     }
 
+    .buttons_edit {
+        -webkit-border-radius: 60px;
+        -moz-border-radius: 60px;
+        border-radius: 60px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: lighter;
+        padding: 15px;
+        background-color: none;
+        border: solid lightgray 1px;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+        width: 8rem;
+        height: auto;
+        margin-bottom: -0.3cm;
+     }
+     
+    .buttons_edit:hover {
+        background: none;
+        border: solid skyblue 1px;
+        -webkit-border-radius: 60px;
+        -moz-border-radius: 60px;
+        border-radius: 60px;
+        text-decoration: none;
+        color: skyblue;
+        width: 8rem;
+        margin-bottom: -0.3cm;
+     }
+
+     .center{
+        border-spacing: 0.3cm;
+    }
+
 }
