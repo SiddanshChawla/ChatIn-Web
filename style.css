@@ -171,6 +171,7 @@ body{
     }
     .footer-page{
         height: 5vh;
+        vertical-align: middle;
     }
 
 }
