@@ -161,4 +161,8 @@ body{
         border-spacing: 0.3cm;
     }
 
+    .mob_ver_down{
+        font-weight: bold;
+    }
+
 }
